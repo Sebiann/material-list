@@ -3,7 +3,6 @@
 +--------------------------+-------+---------+-----------+
 | Item                     | Total | Missing | Available |
 +--------------------------+-------+---------+-----------+
-| Glass                    | 16657 |       0 |         0 |
 | Black Stained Glass      |  2208 |    2208 |         0 |
 | Cyan Stained Glass       |  1280 |    1280 |         0 |
 | Compressed Ice           |   458 |     458 |         0 |
@@ -15,11 +14,7 @@
 | Grey Glazed Terracotta   |   261 |     261 |         0 |
 | Dispenser                |   258 |     258 |         0 |
 | Powered Rail             |   240 |     240 |         0 |
-| Spruce Sign              |   228 |     228 |         0 |
 | Black Stained Glass Pane |   191 |     191 |         0 |
-| Red Stained Glass        |   127 |     127 |         0 |
-| Honey Block              |   124 |     124 |         0 |
-| Slime Block              |   117 |     117 |         0 |
 | Cyan Candle              |   115 |     115 |         0 |
 | Redstone Repeater        |   108 |     108 |         0 |
 | Water Bucket             |    78 |      78 |         0 |
@@ -29,47 +24,21 @@
 | Redstone Torch           |    48 |      48 |         0 |
 | Verdant Froglight        |    48 |      48 |         0 |
 | Iron Chain               |    35 |      35 |         0 |
-| Spruce Trapdoor          |    30 |      30 |         0 |
 | Oak Sign                 |    10 |      10 |         0 |
-| Black Wool               |     9 |       9 |         0 |
-| Blue Wool                |     9 |       9 |         0 |
-| Brown Wool               |     9 |       9 |         0 |
-| Cyan Wool                |     9 |       9 |         0 |
-| Green Wool               |     9 |       9 |         0 |
-| Grey Wool                |     9 |       9 |         0 |
-| Light Blue Wool          |     9 |       9 |         0 |
-| Light Grey Wool          |     9 |       9 |         0 |
-| Lime Wool                |     9 |       9 |         0 |
-| Magenta Wool             |     9 |       9 |         0 |
-| Orange Wool              |     9 |       9 |         0 |
-| Pink Wool                |     9 |       9 |         0 |
-| Purple Wool              |     9 |       9 |         0 |
-| Red Wool                 |     9 |       9 |         0 |
-| White Wool               |     9 |       9 |         0 |
-| Yellow Wool              |     9 |       9 |         0 |
 | Cyan Terracotta          |     6 |       6 |         0 |
-| Anvil                    |     5 |       5 |         0 |
 | Soul Sand                |     3 |       3 |         0 |
 | Block of Redstone        |     2 |       2 |         0 |
-| Chipped Anvil            |     2 |       2 |         0 |
-| Cyan Stained Glass Pane  |     2 |       2 |         0 |
-| Ender Chest              |     2 |       2 |         2 |
 | Note Block               |     2 |       2 |         0 |
 | Redstone Lamp            |     2 |       2 |         0 |
 | Shroomlight              |     2 |       2 |         0 |
 | Spruce Slab              |     2 |       2 |         0 |
 | White Glazed Terracotta  |     2 |       2 |         0 |
-| Barrel                   |     1 |       1 |         0 |
 | Birch Sign               |     1 |       1 |         0 |
 | Blue Ice                 |     1 |       1 |         0 |
 | Cartography Table        |     1 |       1 |         0 |
-| Crafting Table           |     1 |       1 |         1 |
 | Dark Oak Door            |     1 |       1 |         0 |
 | Dark Oak Sign            |     1 |       1 |         0 |
 | Lectern                  |     1 |       1 |         0 |
-| Sea Lantern              |     1 |       1 |        64 |
-| Shulker Box              |     1 |       1 |         0 |
-| Stone Button             |     1 |       0 |         0 |
 +--------------------------+-------+---------+-----------+
 | Item                     | Total | Missing | Available |
 +--------------------------+-------+---------+-----------+
